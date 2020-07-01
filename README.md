@@ -48,5 +48,5 @@ In order to execute the code in the notebook, you need to create an Anaconda env
 
 If you do not have Anaconda already installed, you can download it here https://www.anaconda.com/products/individual
 
-Once Ananconda is installed on your machine, you can then create a new conda environement with the required packages by running the following on the command line:
+Once Ananconda is installed on your machine, you can then create a new conda environment with the required packages by running the following on the command line:
 conda create --name yourenvname --file conda_childhoodobpy38_requirements.txt
