@@ -44,7 +44,7 @@ The Jupyter Notebook shows all the details of the data exploration and all the i
 
 ### Running the notebook
 
-In order to execute the code in the notebook, you need to create an Anaconda environment and install the python packages listed in the requirements file included in this repository.
+The full data analysis is contained in the **gsttcharity.ipynb** notebook. In order to execute the code in the notebooks, you need to create an Anaconda environment and install the python packages listed in the requirements file included in this repository.
 
 If you do not have Anaconda already installed, you can download it here https://www.anaconda.com/products/individual
 
